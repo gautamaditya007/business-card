@@ -20,5 +20,5 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 
 Happy Coding!
 
-##Deployment
-deployed site- https://nimble-biscochitos-02516f.netlify.app/
+
+Deployed site- https://nimble-biscochitos-02516f.netlify.app/
